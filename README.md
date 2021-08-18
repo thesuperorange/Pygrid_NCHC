@@ -15,6 +15,7 @@
 
 
 ## Aggregation (FedAvg)
+* Path: mnist_benchmark/aggregation
 * Pygrid + FedAvg自行implement
 * 執行
   ```run_agg_test.py```
