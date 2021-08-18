@@ -1,0 +1,7 @@
+
+__pycache__/
+8node/dataset2/
+aggregation/dataset/
+aggregation/model/
+
+*.tar
